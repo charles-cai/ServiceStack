@@ -1,3 +1,5 @@
+## NOTE: as [ServiceStack is now a GitHub Organization](https://github.com/ServiceStack), this repository has been deprecated. Please update your links and watch lists!
+
 [Join the new google group](http://groups.google.com/group/servicestack) or
 follow [@demisbellot](http://twitter.com/demisbellot) and [@ServiceStack](http://twitter.com/servicestack)
 for twitter updates.
